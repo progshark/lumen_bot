@@ -1,0 +1,20 @@
+     # Environment variables
+     .env
+
+     # Python cache
+     __pycache__/
+     *.py[cod]
+     *$py.class
+
+     # OS generated files
+     .DS_Store
+     Thumbs.db
+
+     # Virtual environment (if you use one, add its name here e.g., venv/)
+     # venv/
+     # env/
+     # *.venv
+
+     # IDE specific files (optional)
+     # .idea/
+     # .vscode/
